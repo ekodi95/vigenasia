@@ -1,17 +1,14 @@
 # vigenesia
+ini adalah project yang dibuat dengan flutter
 
-A new Flutter project.
+Nama daftar kelompok:
+1. Eko Wahyudi
+2. Iqbal Baihaqi
+3. Markus
+4. Kharisma Budiwati
 
-## Getting Started
+Cara menjalankan:
+1. Pastikan sudah mensetting flutter dependecies flutter dengan SDK versi diatas 2.18.0 dan dibawah 3.0.0
+2. masuk ke folder tempat ingin menyimpan file ini dan jalankan terminal atau git bash pada folder tersebut
+3. git clone 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# vigenasia
